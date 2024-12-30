@@ -1,0 +1,29 @@
+##############
+# Preferences
+##############
+
+# Theme
+window-theme = ghostty
+
+# Padding
+window-padding-x = 10
+window-padding-y = 5
+window-padding-balance = true
+
+# Background
+background-opacity = 0.8
+background-blur-radius = 20
+
+# Titlebar
+macos-titlebar-style = transparent
+
+# Quick Terminal
+quick-terminal-position = top
+quick-terminal-screen = main
+quick-terminal-animation-duration = 0
+
+##############
+# Keybindings
+##############
+
+keybind = global:cmd+i=toggle_quick_terminal
